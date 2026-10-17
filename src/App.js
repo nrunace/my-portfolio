@@ -414,7 +414,7 @@ export default function App() {
           <a href="https://github.com/nrunace" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub">
             <FaGithub size={20} />
           </a>
-          <a href="https://www.linkedin.com/in/jen-natalie-quinto-34b755400/" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/natquinto" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
             <FaLinkedinIn size={20} />
           </a>
         </div>
